@@ -47,7 +47,7 @@ eltetor14-picoctf@webshell:~$
 picoCTF{545h_r1ng1ng_1b2fd683}
 
 ## Notas adicionales
-Abre el codigo para ver la clave.
+Abre el codigo con nano para ver la clave.
 
 ## Referencias
 
