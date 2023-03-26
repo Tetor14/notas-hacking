@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a054bbf716aa164",
+        "id": "8b0b9e604fd32bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1a08218c16bf58",
+            "id": "590843a070082b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/22-PW-Crack-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/22-PW-Crack-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/22-PW-Crack-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "primer-parcial/22-PW-Crack-1.md"
               }
             }
           }
@@ -146,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c164943406e3d85f",
+  "active": "590843a070082b47",
   "lastOpenFiles": [
+    "primer-parcial/21-Glitch-Cat.md",
+    "primer-parcial/01-Lets Warm Up.md",
+    "primer-parcial/20-fixme2.py.md",
+    "primer-parcial/19-fixme1.py.md",
+    "primer-parcial/18-Codebook.md",
+    "primer-parcial/17-convertme.py.md",
+    "primer-parcial/22-PW-Crack-1.md",
+    "primer-parcial/23-PW-Crack-2.md",
+    "primer-parcial/24-PW-Crack-3.md",
+    "primer-parcial/16-runme.py.md",
+    "primer-parcial/plantilla.md",
+    "primer-parcial/15-Magikarp-Ground-Mission.md",
+    "primer-parcial/14-Tab,-Tab,-Attack.md",
+    "primer-parcial/13-Static-ain't-always-noise.md",
+    "primer-parcial/11-Wave-a-flag.md",
+    "primer-parcial/10-Obedient-Cat.md",
+    "primer-parcial/12-Nice-netcat.md",
+    "primer-parcial/09-plumbing.md",
+    "primer-parcial/08-Based.md",
+    "primer-parcial/07-First Grep.md",
+    "README.md",
     "picoCTF 2019 forensic/05-What-Lies-Within.md",
     "picoCTF2019 Web/08-Irish-Name-Repo 2.md",
     "picoCTF2019 Web/09-Irish-Name-Repo 3.md",
     "picoCTF2019 Web/10-JaWT Scratchpad.md",
     "picoCTF 2019 forensic/04-extensions.md",
-    "picoCTF 2019 forensic/01-Glory-of-the-Garden.md",
-    "picoCTF 2019 forensic/02-So-Meta.md",
-    "picoCTF 2019 forensic/03-shark-on-wire-1.md",
-    "picoCTF 2019 forensic/10-shark-on-wire-2.md",
-    "picoCTF 2019 forensic/09-like1000.md",
-    "picoCTF 2019 forensic/08-c0rrupt.md",
-    "picoCTF 2019 forensic/07-WhitePages.md",
-    "picoCTF 2019 forensic/06-m00nwalk.md",
-    "picoCTF 2019 forensic/plantilla.md",
-    "picoCTF2019 Web/plantilla.md",
-    "picoCTF2021 Web/01-GET-aHEAD.md",
     "picoCTF 2019 forensic",
-    "picoCTF2021 Web/02-Cookies.md",
-    "picoCTF2021 Web/03-Scavenger-hunt.md",
-    "picoCTF2021 Web/plantilla.md",
     "picoCTF2021 Web",
-    "picoCTF2019 Web/07-Irish-Name-Repo 1.md",
-    "picoCTF2019 Web/06-Client-side-again.md",
-    "picoCTF2019 Web/05-picobrowser.md",
-    "picoCTF2019 Web/04-dont-use-client-side.md",
-    "picoCTF2019 Web/03-logon.md",
-    "picoCTF2019 Web/02-where are the robots.md",
-    "picoCTF2019 Web/01-Insp3ct0r.md",
     "picoCTF2019 Web",
     "primer-parcial"
   ]
