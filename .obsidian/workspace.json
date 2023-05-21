@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93f1163e828381f7",
+        "id": "e8597887bed31233",
         "type": "tabs",
         "children": [
           {
-            "id": "91ec3b167da83830",
+            "id": "037bd4dfb7c8c501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2023/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d1322d0fbf62658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF 2023/ReadMyCert.md",
+                "file": "picoCTF 2019 forensic/12-WebNet1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fb033bb206eea0cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2023/ReadMyCert.md",
+                "file": "picoCTF 2019 forensic/12-WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2023/ReadMyCert.md",
+                "file": "picoCTF 2019 forensic/12-WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2023/ReadMyCert.md"
+                "file": "picoCTF 2019 forensic/12-WebNet1.md"
               }
             }
           }
@@ -159,36 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d1322d0fbf62658",
+  "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
-    "picoCTF 2023/Untitled.md",
-    "picoCTF 2023/HidetoSee.md",
-    "picoCTF2019 Crypto/10-b00tl3gRSA2.md",
-    "picoCTF 2023/Reverse.md",
-    "picoCTF 2023/chrono.md",
-    "picoCTF 2023/hideme.md",
-    "picoCTF 2023/MatchTheRegex.md",
-    "picoCTF 2023/plantilla.md",
-    "picoCTF 2022 Crypto/01-basic-mod1.md",
-    "picoCTF 2022 Crypto/plantilla.md",
-    "picoCTF2021 Crypto/plantilla.md",
-    "picoCTF2021 Crypto/02-Mind-your-Ps-and-Qs.md",
-    "picoCTF 2022 Crypto",
-    "picoCTF2021 Crypto/01-Pixelated.md",
-    "picoCTF2019 Web/plantilla.md",
+    "picoCTF 2019 forensic/11-WebNet0.md",
+    "picoCTF 2019 forensic/10-shark-on-wire-2.md",
+    "picoCTF 2019 forensic/09-like1000.md",
+    "picoCTF 2019 forensic/08-c0rrupt.md",
+    "picoCTF 2019 forensic/07-WhitePages.md",
+    "picoCTF 2019 forensic/06-m00nwalk.md",
+    "picoCTF 2019 forensic/05-What-Lies-Within.md",
+    "picoCTF 2019 forensic/12-WebNet1.md",
     "picoCTF 2019 forensic/plantilla.md",
+    "segundo-parcial/16-St3g0.md",
+    "segundo-parcial/15-Redaction-gone-wrong.md",
+    "segundo-parcial/14-Packets-Primer.md",
+    "segundo-parcial/plantilla.md",
+    "segundo-parcial/13-Lookey-here.md",
+    "segundo-parcial/12-Enhance!.md",
+    "segundo-parcial/11-Wireshark-doo-dooo do-doo….md",
+    "segundo-parcial/10-Information.md",
+    "segundo-parcial/09-SQL-Direct.md",
+    "segundo-parcial/08-Secrets.md",
+    "segundo-parcial/07-Roboto-Sans.md",
+    "segundo-parcial/06-Power-Cookie.md",
+    "segundo-parcial/05-Forbidden-Paths.md",
+    "segundo-parcial/04-Search-source.md",
+    "segundo-parcial/03-Local-Authority.md",
+    "segundo-parcial/02-Inspect HTML.md",
+    "segundo-parcial/01-Includes.md",
+    "segundo-parcial",
+    "picoCTF 2022 Crypto",
     "picoCTF2021 Crypto",
-    "picoCTF2019 Crypto/09-miniRSA.md",
-    "picoCTF2019 Crypto/08-rsa-pop-quiz.md",
-    "picoCTF2019 Crypto/plantilla.md",
-    "picoCTF2019 Crypto/07-waves-over-lambda.md",
-    "picoCTF2019 Crypto/05-la-cifra-de.md",
-    "picoCTF2019 Crypto/06-Tapping.md",
-    "picoCTF2019 Crypto/04-Caesar.md",
-    "picoCTF2019 Crypto/03-13.md",
-    "picoCTF2019 Crypto/02-Easy 1.md",
-    "picoCTF2019 Crypto/01-The Numbers.md",
-    "picoCTF2021 Web/01-GET-aHEAD.md",
     "picoCTF2019 Crypto",
     "picoCTF 2023",
     "picoCTF 2019 forensic",
