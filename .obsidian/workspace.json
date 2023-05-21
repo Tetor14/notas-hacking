@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2019 RE/04-vault-door-4.md",
+                "file": "picoCTF 2019 RE/07-asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2019 RE/04-vault-door-4.md",
+                "file": "picoCTF 2019 RE/07-asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2019 RE/04-vault-door-4.md",
+                "file": "picoCTF 2019 RE/07-asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2019 RE/04-vault-door-4.md"
+                "file": "picoCTF 2019 RE/07-asm3.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
+    "picoCTF 2019 RE/06-asm2.md",
+    "picoCTF 2019 RE/05-asm1.md",
+    "picoCTF 2019 RE/07-asm3.md",
     "picoCTF 2019 RE/plantilla.md",
     "picoCTF 2019 RE/04-vault-door-4.md",
     "picoCTF 2019 RE/03-vault-door-3.md",
@@ -181,9 +184,6 @@
     "segundo-parcial/15-Redaction-gone-wrong.md",
     "segundo-parcial/14-Packets-Primer.md",
     "segundo-parcial/plantilla.md",
-    "segundo-parcial/13-Lookey-here.md",
-    "segundo-parcial/12-Enhance!.md",
-    "segundo-parcial/11-Wireshark-doo-dooo do-doo….md",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
     "picoCTF2021 Crypto",
