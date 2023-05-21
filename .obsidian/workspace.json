@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2019 forensic/04-extensions.md",
+                "file": "picoCTF 2019 RE/04-vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2019 forensic/04-extensions.md",
+                "file": "picoCTF 2019 RE/04-vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2019 forensic/04-extensions.md",
+                "file": "picoCTF 2019 RE/04-vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2019 forensic/04-extensions.md"
+                "file": "picoCTF 2019 RE/04-vault-door-4.md"
               }
             }
           }
@@ -156,6 +156,14 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
+    "picoCTF 2019 RE/plantilla.md",
+    "picoCTF 2019 RE/04-vault-door-4.md",
+    "picoCTF 2019 RE/03-vault-door-3.md",
+    "picoCTF 2019 RE/01-vault-door-training.md",
+    "picoCTF 2019 RE/02-vault-door-1.md",
+    "picoCTF 2021 forensic/plantilla.md",
+    "picoCTF 2019 forensic/04-extensions.md",
+    "picoCTF 2019 RE",
     "picoCTF 2019 forensic/05-What-Lies-Within.md",
     "picoCTF 2019 forensic/06-m00nwalk.md",
     "picoCTF 2019 forensic/07-WhitePages.md",
@@ -167,9 +175,7 @@
     "picoCTF 2021 forensic/01-Matryoshka-doll.md",
     "picoCTF 2021 forensic/02- tunn3l-v1s10n.md",
     "picoCTF 2021 forensic/03-MacroHard WeakEdge.md",
-    "picoCTF 2019 forensic/04-extensions.md",
     "picoCTF 2019 forensic/plantilla.md",
-    "picoCTF 2021 forensic/plantilla.md",
     "picoCTF 2021 forensic",
     "segundo-parcial/16-St3g0.md",
     "segundo-parcial/15-Redaction-gone-wrong.md",
@@ -178,11 +184,6 @@
     "segundo-parcial/13-Lookey-here.md",
     "segundo-parcial/12-Enhance!.md",
     "segundo-parcial/11-Wireshark-doo-dooo do-doo….md",
-    "segundo-parcial/10-Information.md",
-    "segundo-parcial/09-SQL-Direct.md",
-    "segundo-parcial/08-Secrets.md",
-    "segundo-parcial/07-Roboto-Sans.md",
-    "segundo-parcial/06-Power-Cookie.md",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
     "picoCTF2021 Crypto",
@@ -190,7 +191,6 @@
     "picoCTF 2023",
     "picoCTF 2019 forensic",
     "picoCTF2021 Web",
-    "picoCTF2019 Web",
-    "primer-parcial"
+    "picoCTF2019 Web"
   ]
 }
