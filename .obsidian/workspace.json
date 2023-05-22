@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2019 RE/07-asm3.md",
+                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2019 RE/07-asm3.md",
+                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2019 RE/07-asm3.md",
+                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2019 RE/07-asm3.md"
+                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md"
               }
             }
           }
@@ -156,10 +156,18 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
+    "picoCTF 2023 RE/plantilla.md",
+    "picoCTF 2023 RE/01-Safe-Opener-2.md",
+    "picoCTF 2022 RE/plantilla.md",
+    "picoCTF 2019 RE/plantilla.md",
+    "picoCTF 2022 RE/01-GDB-Test-Drive.md",
+    "picoCTF 2023 RE",
+    "picoCTF 2019 RE/09-reverse_cipher.md",
+    "picoCTF 2022 RE",
+    "picoCTF 2019 RE/08-Need-For-Speed.md",
+    "picoCTF 2019 RE/07-asm3.md",
     "picoCTF 2019 RE/06-asm2.md",
     "picoCTF 2019 RE/05-asm1.md",
-    "picoCTF 2019 RE/07-asm3.md",
-    "picoCTF 2019 RE/plantilla.md",
     "picoCTF 2019 RE/04-vault-door-4.md",
     "picoCTF 2019 RE/03-vault-door-3.md",
     "picoCTF 2019 RE/01-vault-door-training.md",
@@ -177,20 +185,12 @@
     "picoCTF 2019 forensic/12-WebNet1.md",
     "picoCTF 2021 forensic/01-Matryoshka-doll.md",
     "picoCTF 2021 forensic/02- tunn3l-v1s10n.md",
-    "picoCTF 2021 forensic/03-MacroHard WeakEdge.md",
-    "picoCTF 2019 forensic/plantilla.md",
     "picoCTF 2021 forensic",
-    "segundo-parcial/16-St3g0.md",
-    "segundo-parcial/15-Redaction-gone-wrong.md",
-    "segundo-parcial/14-Packets-Primer.md",
-    "segundo-parcial/plantilla.md",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
     "picoCTF2021 Crypto",
     "picoCTF2019 Crypto",
     "picoCTF 2023",
-    "picoCTF 2019 forensic",
-    "picoCTF2021 Web",
-    "picoCTF2019 Web"
+    "picoCTF 2019 forensic"
   ]
 }
