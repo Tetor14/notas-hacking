@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
+                "file": "retos bandit/Level 32 a 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
+                "file": "retos bandit/Level 32 a 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md",
+                "file": "retos bandit/Level 32 a 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2023 RE/01-Safe-Opener-2.md"
+                "file": "retos bandit/Level 32 a 33.md"
               }
             }
           }
@@ -156,8 +156,13 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
-    "picoCTF 2023 RE/plantilla.md",
+    "retos bandit/Level 31 a 32.md",
+    "retos bandit/Level 30 a 31.md",
+    "retos bandit/Level 29 a 30.md",
+    "retos bandit/Level 28 a 29.md",
+    "retos bandit/Level 27 a 28.md",
     "picoCTF 2023 RE/01-Safe-Opener-2.md",
+    "picoCTF 2023 RE/plantilla.md",
     "picoCTF 2022 RE/plantilla.md",
     "picoCTF 2019 RE/plantilla.md",
     "picoCTF 2022 RE/01-GDB-Test-Drive.md",
@@ -180,11 +185,6 @@
     "picoCTF 2019 forensic/07-WhitePages.md",
     "picoCTF 2019 forensic/08-c0rrupt.md",
     "picoCTF 2019 forensic/09-like1000.md",
-    "picoCTF 2019 forensic/10-shark-on-wire-2.md",
-    "picoCTF 2019 forensic/11-WebNet0.md",
-    "picoCTF 2019 forensic/12-WebNet1.md",
-    "picoCTF 2021 forensic/01-Matryoshka-doll.md",
-    "picoCTF 2021 forensic/02- tunn3l-v1s10n.md",
     "picoCTF 2021 forensic",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
