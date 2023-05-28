@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/Level 32 a 33.md",
+                "file": "picoCTF 2022 Binary/04-flag-leak.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/Level 32 a 33.md",
+                "file": "picoCTF 2022 Binary/04-flag-leak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/Level 32 a 33.md",
+                "file": "picoCTF 2022 Binary/04-flag-leak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/Level 32 a 33.md"
+                "file": "picoCTF 2022 Binary/04-flag-leak.md"
               }
             }
           }
@@ -156,6 +156,13 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
+    "picoCTF 2022 Binary/03-buffer-overflow-1.md",
+    "picoCTF 2022 Binary/02-buffer-overflow-0.md",
+    "picoCTF 2022 Binary/04-flag-leak.md",
+    "picoCTF 2022 Binary/plantilla.md",
+    "picoCTF 2022 Binary/01-basic-file-exploit.md",
+    "retos bandit/Level 32 a 33.md",
+    "picoCTF 2022 Binary",
     "retos bandit/Level 31 a 32.md",
     "retos bandit/Level 30 a 31.md",
     "retos bandit/Level 29 a 30.md",
@@ -178,19 +185,12 @@
     "picoCTF 2019 RE/01-vault-door-training.md",
     "picoCTF 2019 RE/02-vault-door-1.md",
     "picoCTF 2021 forensic/plantilla.md",
-    "picoCTF 2019 forensic/04-extensions.md",
     "picoCTF 2019 RE",
-    "picoCTF 2019 forensic/05-What-Lies-Within.md",
-    "picoCTF 2019 forensic/06-m00nwalk.md",
-    "picoCTF 2019 forensic/07-WhitePages.md",
-    "picoCTF 2019 forensic/08-c0rrupt.md",
-    "picoCTF 2019 forensic/09-like1000.md",
     "picoCTF 2021 forensic",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
     "picoCTF2021 Crypto",
     "picoCTF2019 Crypto",
-    "picoCTF 2023",
-    "picoCTF 2019 forensic"
+    "picoCTF 2023"
   ]
 }
