@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF2021 Binary/01-Stonks.md",
+                "file": "tercer-parcial/16-two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF2021 Binary/01-Stonks.md",
+                "file": "tercer-parcial/16-two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF2021 Binary/01-Stonks.md",
+                "file": "tercer-parcial/16-two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF2021 Binary/01-Stonks.md"
+                "file": "tercer-parcial/16-two-sum.md"
               }
             }
           }
@@ -156,8 +156,27 @@
   },
   "active": "037bd4dfb7c8c501",
   "lastOpenFiles": [
-    "picoCTF2021 Binary/plantilla.md",
+    "tercer-parcial/15-clutter-overflow.md",
+    "tercer-parcial/16-two-sum.md",
+    "tercer-parcial/14-Local-Target.md",
+    "tercer-parcial/13-Picker-IV.md",
+    "tercer-parcial/12-GDB-baby-step-2.md",
+    "tercer-parcial/11-GDB-baby-step-1.md",
+    "tercer-parcial/10-Bit-O-Asm-4.md",
+    "tercer-parcial/09-Bit-O-Asm-3.md",
+    "tercer-parcial/08-Bit-O-Asm-2.md",
+    "tercer-parcial/07-Bit-O-Asm-1.md",
+    "tercer-parcial/06-ASCII-FTW.md",
+    "tercer-parcial/05-SRA.md",
+    "tercer-parcial/04-Vigenere.md",
+    "tercer-parcial/03-transposition-trial.md",
+    "tercer-parcial/03-transposition-trial 1.md",
+    "tercer-parcial/02-Mr-Worldwide.md",
+    "tercer-parcial/01-Flags.md",
+    "tercer-parcial/plantilla.md",
     "picoCTF2021 Binary/01-Stonks.md",
+    "tercer-parcial",
+    "picoCTF2021 Binary/plantilla.md",
     "picoCTF 2022 Binary/04-flag-leak.md",
     "picoCTF2021 Binary",
     "picoCTF 2022 Binary/03-buffer-overflow-1.md",
@@ -166,31 +185,12 @@
     "picoCTF 2022 Binary/01-basic-file-exploit.md",
     "retos bandit/Level 32 a 33.md",
     "picoCTF 2022 Binary",
-    "retos bandit/Level 31 a 32.md",
-    "retos bandit/Level 30 a 31.md",
-    "retos bandit/Level 29 a 30.md",
-    "retos bandit/Level 28 a 29.md",
-    "retos bandit/Level 27 a 28.md",
-    "picoCTF 2023 RE/01-Safe-Opener-2.md",
-    "picoCTF 2023 RE/plantilla.md",
-    "picoCTF 2022 RE/plantilla.md",
-    "picoCTF 2019 RE/plantilla.md",
-    "picoCTF 2022 RE/01-GDB-Test-Drive.md",
     "picoCTF 2023 RE",
-    "picoCTF 2019 RE/09-reverse_cipher.md",
     "picoCTF 2022 RE",
-    "picoCTF 2019 RE/08-Need-For-Speed.md",
-    "picoCTF 2019 RE/07-asm3.md",
-    "picoCTF 2019 RE/06-asm2.md",
-    "picoCTF 2019 RE/05-asm1.md",
-    "picoCTF 2019 RE/04-vault-door-4.md",
-    "picoCTF 2019 RE/03-vault-door-3.md",
-    "picoCTF 2019 RE/01-vault-door-training.md",
     "picoCTF 2019 RE",
     "picoCTF 2021 forensic",
     "segundo-parcial",
     "picoCTF 2022 Crypto",
-    "picoCTF2021 Crypto",
-    "picoCTF2019 Crypto"
+    "picoCTF2021 Crypto"
   ]
 }
